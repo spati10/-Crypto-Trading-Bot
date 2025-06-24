@@ -1,0 +1,21 @@
+2025-06-24 21:07:30,170 - INFO - Binance Futures client initialized (Testnet).
+2025-06-24 21:08:49,835 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2025-06-24 21:08:49,843 - ERROR - Unexpected error: API Secret required for private endpoints
+2025-06-24 21:21:51,735 - INFO - Binance Futures client initialized (Testnet).
+2025-06-24 21:22:21,057 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2025-06-24 21:22:21,403 - ERROR - API Error: APIError(code=None): None
+2025-06-24 21:23:34,508 - INFO - Binance Futures client initialized (Testnet).
+2025-06-24 21:23:59,481 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2025-06-24 21:23:59,959 - ERROR - API Error: APIError(code=None): None
+2025-06-24 23:21:59,224 - INFO - Binance Futures client initialized (Testnet).
+2025-06-24 23:22:26,357 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2025-06-24 23:22:27,312 - ERROR - API Error: APIError(code=None): None
+2025-06-24 23:39:09,984 - INFO - Binance Futures client initialized (Testnet).
+2025-06-24 23:39:30,451 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.002}
+2025-06-24 23:39:31,318 - ERROR - API Error: APIError(code=None): None
+2025-06-25 01:00:11,704 - INFO - Binance Futures client initialized (Testnet).
+2025-06-25 01:00:40,711 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2025-06-25 01:00:41,214 - ERROR - API Error: APIError(code=None): None
+2025-06-25 01:24:13,381 - INFO - Binance Futures client initialized (Testnet).
+2025-06-25 01:24:33,217 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2025-06-25 01:24:33,718 - ERROR - API Error: APIError(code=None): None
